@@ -12,4 +12,4 @@ jobs:
         with:
           labels: QA-env
           artifact-id: 714592b4-002d-43b8-bad5-987fa0eee754
-          target-environment: QA-env
+          target-environment: QA
